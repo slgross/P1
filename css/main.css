@@ -1,0 +1,79 @@
+/*
+Sandy Gross
+Project 1
+CSS Main
+
+* {
+	border: 1px dashed red !important;
+}
+*/
+* {
+	font-family: Verdana, sans-serif;
+}
+
+body {
+	color: #744404;
+	width: 100%;
+}
+
+
+h1 {
+	color: #666;
+	font-size: 48px;
+	margin-top: 38px;
+	padding-top: 3px;
+	text-align: center;
+}
+
+
+.img-responsive {
+	max-width: 100%;
+	height: auto;
+}
+
+
+h2 {
+	color: #f07c17;
+	font-size: 28px;
+	padding-left: 2.2px;
+	letter-spacing: .4px;
+	word-spacing: .5px;
+}
+
+.box-left {
+	border: 1px solid #ccc;
+	padding-top: 10px;
+	padding-left: 30px;
+	margin-top: 30px;
+	line-height: 31px;
+	font-size: 16px;
+}
+
+
+.box-list {
+	padding-top: 16px;
+	padding-bottom: 33px;
+}
+
+
+.col-md-5 {
+	margin-top: 20px;
+	padding-top: 4px;
+}
+
+
+.col-md-7 {
+	border-left: 1px;
+	border-top: 1px;
+}
+
+
+.para {
+	padding-top: 20px;
+	line-height: 32px;
+	word-spacing: .38px;
+	letter-spacing: .61px;
+	font-size: 15.5px;
+	color: #666;
+	font-weight: 500;
+}
